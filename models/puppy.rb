@@ -7,10 +7,4 @@ class Puppy
     @age = age
   end
 
-  def display
-    puts "Puppy Name: #{@name}"
-    puts "Puppy Breed: #{@breed}"
-    puts "Puppy Age: #{@age}"
-  end
-
 end
